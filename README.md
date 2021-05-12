@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I’m currently working on [openGauss-controller](https://github.com/waterme7on/openGauss-controller)
+
+![my github stats](https://github-readme-stats.vercel.app/api?username=waterme7on)
+
 <!--
 **waterme7on/waterme7on** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
