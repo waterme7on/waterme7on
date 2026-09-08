@@ -2,61 +2,92 @@
 
 # Jintao Li
 
-**Building AI-native products at the intersection of agents, data, interactive systems, and markets.**
+### I build software that thinks, watches, and keeps going.
 
-I like taking ideas all the way from protocol and data model to interface, deployment, and the feedback loop after launch.
+Agents that iterate. Analytics that explain where revenue came from.  
+Interfaces that turn invisible systems into something you can actually **see, touch, and play with**.
 
-[**YoloLab**](https://yololab.cc) · [**TideStat**](https://github.com/waterme7on/tidestat) · [**Superloop**](https://github.com/waterme7on/superloop)
+`AI agents` · `data products` · `interactive systems` · `markets`
+
+[**yololab.cc**](https://yololab.cc) · [**TideStat**](https://github.com/waterme7on/tidestat) · [**Superloop**](https://github.com/waterme7on/superloop)
 
 </div>
 
-## Selected work
+---
 
-### [Superloop](https://github.com/waterme7on/superloop)
+## ⚡ Shipping now
 
-A host-agnostic harness for iterative agent work. It turns one-shot coding agents into budgeted, auditable execution loops with explicit mission contracts, round gates, mechanical verification, persisted state, and stop rules.
+### ♾️ [Superloop](https://github.com/waterme7on/superloop)
 
-`AI agents` `developer tooling` `Python` `Codex` `Claude Code`
+**What if a coding agent didn't stop after one pass?**
 
-### [TideStat](https://github.com/waterme7on/tidestat) · [Live](https://tidestat.yololab.cc)
+Superloop is my attempt at making agents behave less like one-shot assistants and more like accountable execution workers: give them a mission, a budget, a finish line, and proof that the job is actually done.
 
-**See the story behind every dollar.** Privacy-aware analytics that connects acquisition → visitor → session → behavior → conversion → verified payment → revenue, while preserving the observed journey behind the number.
+`mission → round → verify → learn → repeat → stop`
 
-Recent work includes real-time visitor maps, Website Footprints, anonymous visitor characters, Revenue Stories, NPM/browser SDK integration, Shopify/Stripe attribution, bilingual product surfaces, and Cloudflare Workers + D1 infrastructure.
+<sub>Agent harness · Python · Codex · Claude Code · developer tooling</sub>
 
-`analytics` `revenue attribution` `Cloudflare Workers` `D1` `Three.js` `JavaScript`
+### 🌊 [TideStat](https://github.com/waterme7on/tidestat) · [live](https://tidestat.yololab.cc)
 
-### [YoloLab](https://yololab.cc)
+**Analytics usually gives you dashboards. I wanted the story.**
 
-My personal AI lab and shipping ground for interactive experiments, research, writing, and creator tooling. Recent builds include a programmatic WebGL robotic-hand hero, scroll-linked motion, bilingual publishing, D1-backed likes/comments with an Access-gated moderation workflow, and Remotion-based creator experiments.
+TideStat follows the path behind a dollar — from acquisition and anonymous visitor behavior to conversion and verified payment — and makes that journey visible through live maps, visitor characters, Website Footprints, and Revenue Stories.
 
-`AI-native products` `Next.js` `WebGL` `motion` `Cloudflare`
+`acquisition → visitor → behavior → conversion → payment → revenue`
 
-### [RoomFlip](https://house.yololab.cc)
+It currently spans a browser SDK, Shopify/Stripe attribution, Cloudflare Workers + D1, real-time visualization, bilingual UI, and a slightly unreasonable amount of attention to how analytics should *feel*.
 
-An interactive ceiling-free 3D apartment studio: real / white-model / wireframe modes, room walkthroughs, furniture inspection, day/night lighting, and a floor-plan view — with the layout modeled around real-world dimensions and clearances.
+<sub>Revenue analytics · Cloudflare · D1 · Three.js · SDKs · product design</sub>
 
-`3D interfaces` `Three.js` `spatial UX` `interactive visualization`
+### 🧪 [YoloLab](https://yololab.cc)
 
-## What I'm exploring now
+**Where unfinished ideas get shipped before I overthink them.**
 
-- **Agent harnesses** — how to make coding/research agents iterate reliably instead of stopping after one pass.
-- **Revenue & behavior analytics** — turning raw events into an evidence-backed story of how users become revenue.
-- **Interactive systems** — using realtime data, 3D, motion, and playful interfaces to make complex systems easier to understand.
-- **Markets & quantitative tooling** — research workflows, market data, and systematic ways to turn signals into decisions.
+My personal AI lab: part portfolio, part research notebook, part playground. It's where I experiment with AI-native interfaces, programmatic 3D/WebGL, motion, publishing, creator tools, and whatever seems interesting enough to build that week.
 
-## Systems foundation
+Recent experiments include a robotic-hand WebGL hero, scroll-linked motion, D1-backed comments + swipe moderation, bilingual publishing, and Remotion-based creator workflows.
 
-Before the current product/AI work, I spent more time close to infrastructure: distributed systems, databases, Kubernetes, observability, and cloud-native operators.
+<sub>AI products · Next.js · WebGL · motion · Cloudflare · Remotion</sub>
+
+### 🏠 [RoomFlip](https://house.yololab.cc)
+
+**A floor plan you can walk through instead of stare at.**
+
+A ceiling-free interactive apartment model with real / white-model / wireframe modes, room walkthroughs, day/night lighting, furniture inspection, and a floor-plan view — modeled around real dimensions and clearances instead of decorative 3D alone.
+
+<sub>Three.js · spatial UX · realtime 3D · interactive visualization</sub>
+
+---
+
+## A few things I keep coming back to
+
+- **AI that acts, not just chats.** I care about loops, tools, verification, memory, state, and getting to an actual finished result.
+- **Products with feedback loops.** Build it, instrument it, watch what happens, then let reality decide the next iteration.
+- **Making invisible systems visible.** Traffic, agent state, user journeys, spatial relationships, market signals — I like interfaces that make abstract systems feel tangible.
+- **Markets as systems.** I keep exploring quantitative research, market structure, risk tooling, and ways to turn noisy signals into explicit decisions.
+
+## The thread
+
+I started much closer to the metal — databases, distributed systems, Kubernetes, observability, cloud-native operators.
+
+These days I work higher up the stack, but the obsession is basically the same: **state, reliability, feedback loops, and systems that keep working after the demo ends.**
+
+<details>
+<summary><b>Some older systems work</b></summary>
+<br />
 
 - [openGauss Operator](https://github.com/waterme7on/openGauss-operator) — Kubernetes-native database operations.
 - [openGauss Exporter](https://github.com/waterme7on/openGauss-exporter) — database metrics and observability tooling.
 - [mock-hbase](https://github.com/waterme7on/mock-hbase) — HBase-oriented systems experiments.
 
+</details>
+
 ---
 
 <div align="center">
 
-**Build → instrument → observe → iterate.**
+### build → instrument → observe → iterate
+
+<sub>Most things here are experiments. The interesting ones tend to escape into products.</sub>
 
 </div>
