@@ -86,7 +86,17 @@ I like thinking of independent product development as a feedback loop, not a col
 
 ## Also in the lab
 
-- **[JEV Paper Trader](https://github.com/waterme7on/jev-paper-trader)** — a model-assisted *paper trading* experiment, with historical backtests and comparisons against random and mechanical baselines. The write-up also documents where there is **no demonstrated trading edge**; it never executes real-money trades.
+### 📊 [JEV Paper Trading](https://paper.yololab.cc) · [live dashboard ↗](https://paper.yololab.cc) · [source](https://github.com/waterme7on/jev-paper-trader)
+
+**Can model-assisted decisions outperform simple baselines?**
+
+A transparent *paper-trading* experiment with historical backtests and comparisons against random and mechanical strategies. The research also records where **no trading edge has been demonstrated**. Simulated trading only — no real-money execution.
+
+[![Open the JEV Paper Trading dashboard](https://image.thum.io/get/width/1000/crop/650/noanimate/https://paper.yololab.cc)](https://paper.yololab.cc)
+
+<sub>Live website preview (served by a third-party screenshot service; may be cached or temporarily unavailable). [Open the dashboard directly ↗](https://paper.yololab.cc)</sub>
+
+
 - **[RoomFlip](https://house.yololab.cc)** — a walkable apartment model with day/night lighting, real / white-model / wireframe modes, and room-scale interaction. `Three.js` · `spatial UX`
 - **[YoloLab](https://yololab.cc)** — the public home for product case studies, interactive experiments, writing, and build traces.
 
