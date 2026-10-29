@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 310" role="img" aria-labelledby="title desc">
+<title id="title">TideStat product illustration</title><desc id="desc">Illustrative visitor journey from visit to event and verified payment. An illustrative diagram, not a screenshot or live data.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0E1827"/><stop offset="1" stop-color="#152738"/></linearGradient><pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#506477" opacity=".24"/></pattern></defs>
+<rect width="960" height="310" rx="20" fill="url(#bg)"/><rect width="960" height="310" rx="20" fill="url(#dots)"/>
+<rect x="26" y="26" width="908" height="258" rx="16" fill="none" stroke="#3A5363" stroke-opacity=".6"/>
+<text x="54" y="67" font-family="ui-monospace,monospace" font-size="12" letter-spacing="2" fill="#7DE5CC">PRODUCT ANALYTICS / 01</text>
+<text x="54" y="130" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="46" letter-spacing="-1.6" fill="#F1F7F8">TideStat</text>
+<text x="55" y="162" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#A9BEC9">Follow the whole journey.</text>
+<rect x="55" y="236" width="174" height="27" rx="13" fill="#7DE5CC" fill-opacity=".14" stroke="#7DE5CC" stroke-opacity=".55"/>
+<text x="142" y="254" text-anchor="middle" font-family="ui-monospace,monospace" font-size="11" font-weight="700" fill="#7DE5CC">OPEN LIVE EXPERIENCE ↗</text>
+
+<rect x="425" y="54" width="473" height="208" rx="14" fill="#101F30" stroke="#3A5363"/>
+<text x="451" y="83" fill="#BCD2DC" font-size="12" font-family="monospace">VISITOR JOURNEY</text><circle cx="866" cy="79" r="5" fill="#7DE5CC"/>
+<path d="M451 176H868M451 141H868M451 107H868" stroke="#344E5D" stroke-dasharray="5 5"/>
+<polyline points="452,192 498,162 543,172 589,128 636,151 681,107 730,133 780,90 864,113" fill="none" stroke="#7DE5CC" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="681" cy="107" r="6" fill="#7DE5CC" stroke="#101F30" stroke-width="2"/>
+<rect x="446" y="217" width="120" height="26" rx="8" fill="#223747"/><rect x="583" y="217" width="120" height="26" rx="8" fill="#223747"/><rect x="720" y="217" width="149" height="26" rx="8" fill="#23483F"/>
+<g font-family="monospace" font-size="11" fill="#D7EBE8"><text x="465" y="234">VISIT</text><text x="603" y="234">EVENT</text><text x="729" y="234">VERIFIED PAYMENT</text></g>
+<path d="M570 230h9m-4-4 4 4-4 4M707 230h9m-4-4 4 4-4 4" fill="none" stroke="#7DE5CC" stroke-width="1.7"/>
+<text x="912" y="297" text-anchor="end" font-family="ui-monospace,monospace" font-size="9" letter-spacing=".9" fill="#728898">ILLUSTRATION · NO LIVE DATA</text>
+</svg>
