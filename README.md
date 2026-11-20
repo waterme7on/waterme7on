@@ -5,4 +5,7 @@ Independent developer. AI-native products, agent systems, edge-first infrastruct
 [yololab.cc](https://yololab.cc)
 [tradefun.app](https://tradefun.app)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=waterme7on&show_icons=true&hide_border=true&hide_rank=true&theme=github_dark)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile/stats-dark.svg">
+  <img alt="GitHub stats: stars, commits, pull requests, repositories" src="assets/profile/stats-light.svg" width="720">
+</picture>
